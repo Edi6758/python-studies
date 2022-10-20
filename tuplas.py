@@ -60,4 +60,12 @@ for n in tupla:
 # contando elementos dentro de uma tupla
 tupla = ('a', 'b', 'c', 'd', 'e')
 
-tupla.count('c')
+tupla.count('c ')
+
+# onde usar tuplas
+# sempre quando n for necessário mudar os dados de uma coleção
+# meses
+# dias da semana
+
+# tuplas são mais rápidas do que listas...
+# tuplas aplicam o conceitam de imutabilidade
